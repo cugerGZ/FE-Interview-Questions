@@ -1,0 +1,133 @@
+前端技术日新月异，那国内大厂都在用什么前端技术呢？下面就来通过应用技术解析工具 Wappalyzer 来看看大厂都在用哪些前端技术（**可以直接拉到文末查看统计结果**）！
+> Wappalyzer 是一个 Chrome 插件，用于**查看网站前端使用了哪些技术**。它通过检查网站的源代码、HTTP头文件、Cookie、JavaScript 变量等其他技术方法，在数百万个网站上追踪了上千种网络技术，并使用他们的内部爬虫进行深入分析。
+> ![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694607390871-aba090e8-c768-484c-ab14-fd785b8364e9.png#averageHue=%23fefefe&clientId=u3f8fb871-a7fe-4&from=paste&height=221&id=uf882a22c&originHeight=442&originWidth=1088&originalType=binary&ratio=2&rotation=0&showTitle=false&size=83316&status=done&style=none&taskId=udae7ae7d-b296-4291-a164-57e989ca9bd&title=&width=544)
+
+注意：
+
+- 本文所列举的公司是否属于大厂不在讨论范围内，仅列举常见的部分公司应用；
+- 本文仅列举部分 C 端应用所用的技术，不代表该公司全部应用都用这些技术；
+## 腾讯
+前端框架：
+
+- React：腾讯网、腾讯云、QQ音乐、腾讯会议；
+- Vue：腾讯视频、微信公众平台
+- Next.js：腾讯会议
+
+构建工具：
+
+- Webpack：腾讯云、微信公众平台、腾讯会议
+- Vite：腾讯视频、腾讯云
+### 腾讯网
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694608050425-a30ee52d-be66-4544-b5b4-3364983caca7.png#averageHue=%23bb8d4c&clientId=u3f8fb871-a7fe-4&from=paste&height=470&id=u1ab26bf2&originHeight=940&originWidth=990&originalType=binary&ratio=2&rotation=0&showTitle=false&size=103238&status=done&style=none&taskId=ub9b87d3e-0818-4aa3-b1df-eaf7a12925b&title=&width=495)
+### 腾讯云
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694608601482-f52bf5bb-110f-401b-89d2-c46580bb4bd9.png#averageHue=%23fbfbfb&clientId=u3f8fb871-a7fe-4&from=paste&height=542&id=u0b238c74&originHeight=1084&originWidth=964&originalType=binary&ratio=2&rotation=0&showTitle=false&size=159927&status=done&style=none&taskId=u52c8850c-ca14-45cf-944a-66bef535540&title=&width=482)
+### 腾讯视频
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694608753195-bda0af8b-5fa1-455a-8c6d-827adf441293.png#averageHue=%23e9ad4f&clientId=u3f8fb871-a7fe-4&from=paste&height=474&id=u2d2b1816&originHeight=948&originWidth=996&originalType=binary&ratio=2&rotation=0&showTitle=false&size=114115&status=done&style=none&taskId=ue13ee4dc-386c-4cd8-84b1-2eb7041e1b3&title=&width=498)
+### 微信公众平台
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694608980942-0e78c009-e31e-432f-b567-101e025c9cd6.png#averageHue=%23e5a149&clientId=u3f8fb871-a7fe-4&from=paste&height=393&id=ue8b43bbf&originHeight=786&originWidth=992&originalType=binary&ratio=2&rotation=0&showTitle=false&size=85452&status=done&style=none&taskId=u821e810c-6e79-4074-911d-e1dc9a382c2&title=&width=496)
+### QQ音乐
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694608330954-e47df067-7230-40b3-b68d-23fd9c9bec35.png#averageHue=%23e8d781&clientId=u3f8fb871-a7fe-4&from=paste&height=346&id=siM20&originHeight=692&originWidth=988&originalType=binary&ratio=2&rotation=0&showTitle=false&size=62869&status=done&style=none&taskId=u535f0ef5-d595-4e8c-b507-64ade472607&title=&width=494)
+### 腾讯会议
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694610600007-41e73a0b-40db-4199-a3e8-ae56f272fee7.png#averageHue=%23fafafa&clientId=u3f8fb871-a7fe-4&from=paste&height=538&id=ud106aafc&originHeight=1076&originWidth=956&originalType=binary&ratio=2&rotation=0&showTitle=false&size=155170&status=done&style=none&taskId=u3cd66b3e-9dc4-446a-854c-6e64df1ad39&title=&width=478)
+## 阿里巴巴
+前端框架：
+
+- React：阿里云、1688、优酷、钉钉、支付宝
+- Vue：无
+- preact：淘宝
+### 阿里云
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694608630238-c7b5014b-9b5b-44ed-bce5-4ef2f139092a.png#averageHue=%23ba9663&clientId=u3f8fb871-a7fe-4&from=paste&height=480&id=uac93e50c&originHeight=960&originWidth=980&originalType=binary&ratio=2&rotation=0&showTitle=false&size=123681&status=done&style=none&taskId=u56e9d5e0-20f7-4278-a2b2-a5b5abee0b3&title=&width=490)
+### 淘宝
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694607850804-0fc823c0-e526-4b66-b770-f77e2d1f4fc6.png#averageHue=%23dda275&clientId=u3f8fb871-a7fe-4&from=paste&height=379&id=ucb7f6d7d&originHeight=758&originWidth=976&originalType=binary&ratio=2&rotation=0&showTitle=false&size=84038&status=done&style=none&taskId=u42aad1fe-51f9-42cb-96a8-09e7d0185bd&title=&width=488)
+### 1688
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694607880450-9872f6fe-4a86-4eb0-b383-e1dd04866f74.png#averageHue=%23dda175&clientId=u3f8fb871-a7fe-4&from=paste&height=440&id=u108fcaee&originHeight=880&originWidth=984&originalType=binary&ratio=2&rotation=0&showTitle=false&size=101777&status=done&style=none&taskId=u2ab22279-36a2-42f6-b64d-0bf317b1e1f&title=&width=492)
+### 优酷
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694608845377-a6449e51-84d2-4199-a4e0-2b50b918dd08.png#averageHue=%23e6a15f&clientId=u3f8fb871-a7fe-4&from=paste&height=515&id=grg7B&originHeight=1030&originWidth=968&originalType=binary&ratio=2&rotation=0&showTitle=false&size=136431&status=done&style=none&taskId=ua74fe9be-9abe-45e2-967e-b7a0ecd44fc&title=&width=484)
+### 钉钉
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694610631931-bc520cf3-ad65-4fa7-876e-0d54a5a27426.png#averageHue=%23fbfbfb&clientId=u3f8fb871-a7fe-4&from=paste&height=527&id=u62af0132&originHeight=1054&originWidth=966&originalType=binary&ratio=2&rotation=0&showTitle=false&size=130879&status=done&style=none&taskId=u55fb5d8b-1ac4-4f08-a87b-2a59528c74a&title=&width=483)
+### 支付宝
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694610285513-fdd84794-d716-452d-a085-91618ce85f86.png#averageHue=%23edbf8a&clientId=u3f8fb871-a7fe-4&from=paste&height=511&id=u11797830&originHeight=1022&originWidth=988&originalType=binary&ratio=2&rotation=0&showTitle=false&size=125950&status=done&style=none&taskId=ud687c464-6c87-481b-a066-9566b4b4fe1&title=&width=494)
+## 百度
+前端框架：
+
+- React：文言一心、百度云
+- Vue：百度、百度网盘、度小满
+- Next.js：百度云
+### 百度
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694607594055-5d354f39-8bad-4545-a35d-9d95ca922a9c.png#averageHue=%23e5c376&clientId=u3f8fb871-a7fe-4&from=paste&height=538&id=u2996618e&originHeight=1076&originWidth=982&originalType=binary&ratio=2&rotation=0&showTitle=false&size=119058&status=done&style=none&taskId=uc441c9a7-85c4-4837-ad1e-f8ad6d3b70f&title=&width=491)
+### 百度网盘
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694609170006-677c04c8-29fb-43b9-bb34-279dd6b10730.png#averageHue=%23f6f7f5&clientId=u3f8fb871-a7fe-4&from=paste&height=518&id=u29b3332d&originHeight=1036&originWidth=986&originalType=binary&ratio=2&rotation=0&showTitle=false&size=125797&status=done&style=none&taskId=u41edc4eb-2177-45e8-8ea1-1fb3a5ba943&title=&width=493)
+### 百度云
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694609452584-c5da84ae-b791-4e10-904a-5cd4d40969ae.png#averageHue=%2389b56e&clientId=u3f8fb871-a7fe-4&from=paste&height=486&id=uc7783e51&originHeight=972&originWidth=992&originalType=binary&ratio=2&rotation=0&showTitle=false&size=112962&status=done&style=none&taskId=ua4f7ace0-6b00-42cf-bb8b-31f4164a810&title=&width=496)
+### 文言一心
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694610329681-a8ed5d4e-c39c-42cd-a27b-1ccf0296584e.png#averageHue=%23fbfbfb&clientId=u3f8fb871-a7fe-4&from=paste&height=548&id=u13eec198&originHeight=1096&originWidth=948&originalType=binary&ratio=2&rotation=0&showTitle=false&size=157582&status=done&style=none&taskId=u41467040-396e-4974-9474-31bbad746d9&title=&width=474)
+### 度小满
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694609766603-9273dba7-4630-4283-9b6e-3c4bcb120c5c.png#averageHue=%23eaf6d3&clientId=u3f8fb871-a7fe-4&from=paste&height=482&id=u51adf124&originHeight=964&originWidth=968&originalType=binary&ratio=2&rotation=0&showTitle=false&size=120662&status=done&style=none&taskId=u7e1b08a2-a8f5-4113-8ed7-1e64c8a6f37&title=&width=484)
+## 字节跳动
+前端框架：
+
+- React：抖音、懂车帝、掘金、飞书、西瓜视频
+- Vue：掘金
+- Next.js：懂车帝
+- Nuxt.js：掘金
+### 抖音网页版
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694607803136-c4537f7c-6ccc-4a2c-b2a1-4323e4a24fdf.png#averageHue=%23fcfcfc&clientId=u3f8fb871-a7fe-4&from=paste&height=478&id=uYvkR&originHeight=956&originWidth=988&originalType=binary&ratio=2&rotation=0&showTitle=false&size=130027&status=done&style=none&taskId=uf107fd11-f093-4791-88e2-34bad51086b&title=&width=494)
+### 懂车帝
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694609371933-b1df95c7-d9b8-405e-a071-96d7981f6ee6.png#averageHue=%23fafafa&clientId=u3f8fb871-a7fe-4&from=paste&height=542&id=uaad745f6&originHeight=1084&originWidth=976&originalType=binary&ratio=2&rotation=0&showTitle=false&size=183078&status=done&style=none&taskId=u8461a8dc-d9cc-41b7-aff6-71c90202970&title=&width=488)
+### 掘金
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694608391175-ed1b4860-55f8-432b-bf67-665adb02b57b.png#averageHue=%23fbfbfb&clientId=u3f8fb871-a7fe-4&from=paste&height=538&id=tXYnm&originHeight=1076&originWidth=990&originalType=binary&ratio=2&rotation=0&showTitle=false&size=147968&status=done&style=none&taskId=u8b3336f7-853f-4a85-8fae-9dc54e2d4b7&title=&width=495)
+### 飞书
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694610548392-7006b8b7-90a1-4855-9eb0-b656bf95ea4a.png#averageHue=%23e1bc71&clientId=u3f8fb871-a7fe-4&from=paste&height=474&id=u348e2a82&originHeight=948&originWidth=966&originalType=binary&ratio=2&rotation=0&showTitle=false&size=121896&status=done&style=none&taskId=ucc3e6a53-0dd0-45b9-b96d-ecaa97eba03&title=&width=483)
+### 西瓜视频
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694609089904-b8f0aace-7e57-4f7c-beb7-d2446b0c995f.png#averageHue=%23edc876&clientId=u3f8fb871-a7fe-4&from=paste&height=516&id=PGARb&originHeight=1032&originWidth=986&originalType=binary&ratio=2&rotation=0&showTitle=false&size=124395&status=done&style=none&taskId=u55f4fb7a-fa69-41d4-9f97-9501a525bf8&title=&width=493)
+## 京东
+前端框架：
+
+- React：无
+- Vue：京东云、京东金融、京东物流
+- Nuxt.js：京东云、京东物流
+- jQuery：京东
+### 京东
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694607948537-2ba59189-bbaa-4a7a-b708-482f0814a132.png#averageHue=%23eca94f&clientId=u3f8fb871-a7fe-4&from=paste&height=434&id=PwM3O&originHeight=868&originWidth=990&originalType=binary&ratio=2&rotation=0&showTitle=false&size=95947&status=done&style=none&taskId=ue0aca50b-caf7-45ab-a08e-52fbee7133e&title=&width=495)
+### 京东云
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694609717182-a37dc642-4b27-4843-ae34-4433dba38b48.png#averageHue=%23fbfbfb&clientId=u3f8fb871-a7fe-4&from=paste&height=513&id=X8iny&originHeight=1026&originWidth=972&originalType=binary&ratio=2&rotation=0&showTitle=false&size=139906&status=done&style=none&taskId=u3fe79667-c855-47e6-930d-3880d08d68d&title=&width=486)
+### 京东金融
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694609696855-78390b94-d455-470d-8f67-05606b7cfd54.png#averageHue=%23dbd3ed&clientId=u3f8fb871-a7fe-4&from=paste&height=435&id=ujgvQ&originHeight=870&originWidth=984&originalType=binary&ratio=2&rotation=0&showTitle=false&size=96605&status=done&style=none&taskId=u3a9b0443-580e-44dd-84a4-8f8b80946b5&title=&width=492)
+### 京东物流
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694609658053-eedfb1ed-10db-4049-be9a-4d98789610b5.png#averageHue=%23fafafa&clientId=u3f8fb871-a7fe-4&from=paste&height=508&id=wx6Sg&originHeight=1016&originWidth=972&originalType=binary&ratio=2&rotation=0&showTitle=false&size=133884&status=done&style=none&taskId=u84ed8891-8af2-43b3-9d38-77fac86c2d4&title=&width=486)
+## 美团
+前端框架：
+
+- React：美团官网、大众点评
+- Vue：无
+- Next.js：美团官网
+### 美团官网
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694607535366-3e92c246-e650-4337-a80c-8256f5ab74c3.png#averageHue=%23fafafa&clientId=u3f8fb871-a7fe-4&from=paste&height=541&id=uHqFe&originHeight=1082&originWidth=990&originalType=binary&ratio=2&rotation=0&showTitle=false&size=144184&status=done&style=none&taskId=u02df9fd3-2f24-4459-be90-a9c612936ce&title=&width=495)
+### 大众点评
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694609584434-3d01893a-7dd7-4434-bdfe-3383083a70f7.png#averageHue=%2386c162&clientId=u3f8fb871-a7fe-4&from=paste&height=393&id=u0066efed&originHeight=786&originWidth=994&originalType=binary&ratio=2&rotation=0&showTitle=false&size=77625&status=done&style=none&taskId=u1dbda87a-8d0f-4caa-86b0-f6078d64ef9&title=&width=497)
+## 网易
+前端框架：
+
+- React：CC直播
+- Vue：网易有道
+- Nuxt.js：网易有道
+- Next.js：CC直播
+### 网易云音乐
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694608291204-18ee94ac-9be3-4187-a509-0b1727821833.png#averageHue=%23f6f7f5&clientId=u3f8fb871-a7fe-4&from=paste&height=518&id=DkBNU&originHeight=1036&originWidth=986&originalType=binary&ratio=2&rotation=0&showTitle=false&size=119020&status=done&style=none&taskId=u1b3a2e57-2faa-4403-9427-3b4b2f58807&title=&width=493)
+### 网易有道
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694610873571-c040be60-efe7-46e5-b6bf-d7790479ae48.png#averageHue=%23f6f7f5&clientId=u3f8fb871-a7fe-4&from=paste&height=520&id=ud774e0a6&originHeight=1040&originWidth=984&originalType=binary&ratio=2&rotation=0&showTitle=false&size=111990&status=done&style=none&taskId=u07aa1be5-e6b6-4ca1-a68d-c1f607bab12&title=&width=492)
+### CC直播
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694610932285-2bdee4c3-d1f2-45e0-b149-5ddca8bc007c.png#averageHue=%23fafafa&clientId=u3f8fb871-a7fe-4&from=paste&height=542&id=u9b7f7d3b&originHeight=1084&originWidth=940&originalType=binary&ratio=2&rotation=0&showTitle=false&size=163666&status=done&style=none&taskId=u9b61860d-3b71-471c-85b9-483e1e3f4ad&title=&width=470)
+## 拼多多
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694608697865-629934ab-51b5-4216-940c-d9d10b8bf9f6.png#averageHue=%23fafafa&clientId=u3f8fb871-a7fe-4&from=paste&height=540&id=u53b77eeb&originHeight=1080&originWidth=972&originalType=binary&ratio=2&rotation=0&showTitle=false&size=123974&status=done&style=none&taskId=ubd77f91e-b90e-4c65-9d70-9df0e70ca76&title=&width=486)
+## 哔哩哔哩
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694608142373-bd9513d2-f5bf-47fb-a0e8-ad6253e7ac94.png#averageHue=%23fbfbfb&clientId=u3f8fb871-a7fe-4&from=paste&height=541&id=ueb11554e&originHeight=1082&originWidth=982&originalType=binary&ratio=2&rotation=0&showTitle=false&size=114969&status=done&style=none&taskId=ub9b0b448-6392-4df2-85f7-bafa783958e&title=&width=491)
+## 知乎
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694607561465-c5c1948a-d095-4166-aaa8-848cdfd3eaf6.png#averageHue=%23fcfcfc&clientId=u3f8fb871-a7fe-4&from=paste&height=534&id=gZbdf&originHeight=1068&originWidth=966&originalType=binary&ratio=2&rotation=0&showTitle=false&size=139340&status=done&style=none&taskId=u4dae2b0b-2e56-48fd-97bb-25b95d8a531&title=&width=483)
+## 爱奇艺
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694608810174-a78b4c61-041f-4a42-9735-9d07ca44ffcc.png#averageHue=%23fbfbfb&clientId=u3f8fb871-a7fe-4&from=paste&height=501&id=uea85b0ec&originHeight=1002&originWidth=964&originalType=binary&ratio=2&rotation=0&showTitle=false&size=131467&status=done&style=none&taskId=u251946ea-1706-49e5-81e5-ccc088592ac&title=&width=482)
+## 微博
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694609029381-3c3a2933-3395-4df1-847a-811cf7f39016.png#averageHue=%23d9d0ec&clientId=u3f8fb871-a7fe-4&from=paste&height=389&id=u05a68c95&originHeight=778&originWidth=984&originalType=binary&ratio=2&rotation=0&showTitle=false&size=73377&status=done&style=none&taskId=u81cd9ca0-2899-4368-9b84-1637f19b8fc&title=&width=492)
+## 统计结果
+![image.png](https://cdn.nlark.com/yuque/0/2023/png/1500604/1694678374059-a5166d49-ba76-404d-8f87-ad6dc1dba482.png#averageHue=%23fbfbfb&clientId=u3f8fb871-a7fe-4&from=paste&height=539&id=u0f8aad0b&originHeight=1078&originWidth=1270&originalType=binary&ratio=2&rotation=0&showTitle=false&size=93000&status=done&style=none&taskId=u34f7098f-6b75-4e33-b96a-e546439d4b2&title=&width=635)
+
